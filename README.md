@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @nileshsn
-- 👀 I’m interested in code
-- 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on coder
-- 📫 How to reach me: here is my tweeter Id @nilesh_nfts or click this below link
-https://twitter.com/nilesh_nfts?t=7CbLXMOf5NsIjdtGIfGsog&s=09
+- 📫 How to reach me: here is my LinkedIn Account or click this below link
+https://www.linkedin.com/in/enugandhula-nilesh-400a14226
 
 <!---
 nileshsn/nileshsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
