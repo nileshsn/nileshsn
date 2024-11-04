@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on GSSoC'24.<br>🚀I'm currently learning MERN stack development.<br>
+🌟 Completed GSSoC'24, contributing to open-source.<br>🚀 Learning MERN stack and generative AI.<br>💡 Passionate about web development and integrating LLMs for smarter solutions.<br>
 
 
 ## 🌐 Socials:
